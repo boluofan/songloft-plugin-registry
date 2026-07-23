@@ -15,6 +15,7 @@
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-downloader/main/plugin.json",
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-radio/main/plugin.json",
     "https://raw.githubusercontent.com/charce526/songloft-library-plus/main/plugin.json",
-    "https://raw.githubusercontent.com/charce526/songloft-folder-browser/main/plugin.json"
+    "https://raw.githubusercontent.com/charce526/songloft-folder-browser/main/plugin.json",
+    "https://raw.githubusercontent.com/charce526/songloft-now-playing/main/plugin.json"
   ]
 }
