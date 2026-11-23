@@ -2,5 +2,6 @@
   "name": "Boluofan Songloft Plugin Registry",
   "plugins": [
     "https://raw.githubusercontent.com/songloft-org/songloft-plugin-karaoke-lyric/refs/heads/main/plugin.json",
+    "https://raw.githubusercontent.com/boluofan/songloft-plugin-miot-lxserver/lxserver/plugin.json",
   ]
 }
